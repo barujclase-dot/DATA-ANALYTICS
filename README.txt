@@ -1,4 +1,4 @@
-PROYECTO FINAL DE DATA SCIENCE - INSTRUCCIONES DE ENTREGA
+PROYECTO FINAL DE DATA SCIENCE - INSTRUCCIONES
 ========================================================
 
 PROYECTO
@@ -10,7 +10,7 @@ Integrantes: Jhan Mercado García y Abraham Huamaní Aliaga
 Archivo principal para la entrega: 03_codigo/proyecto.ipynb
 Fuente principal: Banco Central de Reserva del Perú (BCRP)
 
-1. ORGANIZACIÓN DE LAS CARPETAS
+1. ORGANIZACIÓN DE LAS CARPETAS EN DOCUMENTACIÓN
 ------------------------------
 01_documentacion/
     Acta del proyecto, informe de cierre, manual técnico y de usuario,
@@ -37,7 +37,8 @@ Fuente principal: Banco Central de Reserva del Perú (BCRP)
 
 2. CÓMO EJECUTAR EL PROYECTO
 ---------------------------
-1) Abrir Google Colab: https://colab.research.google.com/
+0) Descargar 03_codigo/ o Proyecto. en github
+1) Abrir Google Colab: https://colab.research.google.com/ 
 2) Cargar el archivo 03_codigo/proyecto.ipynb.
 3) Revisar la sección inicial: fechas, curso, integrantes y parámetros.
 4) Seleccionar "Entorno de ejecución" > "Ejecutar todo".
